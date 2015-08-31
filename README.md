@@ -5,4 +5,4 @@
 * ```functional.lua``` shows some functional programming ideas in Lua
 * ```iterators.lua``` shows how to implement generic iterators
 * ```compilation.lua``` has some quick notes regarding how to load external lua code and caveats associated with that
-* ```coroutine.lua```
+* ```serialize.lua``` prints a table in a readable format that you can save to disk
